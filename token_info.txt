@@ -1,0 +1,6 @@
+
+Tick: mnk,
+Name: monk,
+Decimals: 8,
+Total Supply: 10000,
+Ropsten Network Transaction Hash: Deployment Error
